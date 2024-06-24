@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#controls {
+    margin-bottom: 20px;
+}
+
+#chart {
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+}
