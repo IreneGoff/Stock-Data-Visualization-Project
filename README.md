@@ -13,8 +13,8 @@ Features
 ---
 
 Technologies Used  
-- JavaScript (ES6)  
-- D3.js (v6) for data visualization  
+- JavaScript
+- D3.js for data visualization  
 - HTML and CSS for layout and styling  
 - CSV file for storing stock data  
 
